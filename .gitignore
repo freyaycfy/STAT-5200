@@ -1,0 +1,12 @@
+# Do not upload restricted data
+data/
+*.dta
+*.dat
+*.dat.gz
+*.sav
+*.sas7bdat
+
+# Temporary files
+.DS_Store
+*.log
+*.tmp
